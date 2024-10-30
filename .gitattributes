@@ -3,3 +3,5 @@
 *.css text eol=lf
 *.editorconfig text eol=lf
 *.gitattributes text eol=lf
+*.png binary
+*.svg binary
